@@ -1,0 +1,5 @@
+13/05/2023 11:44:50 - https://www.alura.com.br - online: true
+13/05/2023 11:44:52 - https://random-status-code.herokuapp.com - online: false
+13/05/2023 11:44:52 - https://www.caelum.com.br - online: true
+13/05/2023 11:44:53 - https://www.casadocodigo.com.br - online: true
+13/05/2023 14:52:49 - https://www.alura.com.br - online: true
